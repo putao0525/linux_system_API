@@ -1,0 +1,3 @@
+/Users/putao/code/open/c/linux_system_API/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/putao/code/open/c/linux_system_API/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/putao/code/open/c/linux_system_API/cmake-build-debug/CMakeFiles/linux_system_API.dir
